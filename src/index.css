@@ -9,5 +9,8 @@ html,
 body, 
 #root {
   background-color: #5787E5;
+  width: 100%;
+  height: 100%;
+  
   
 }

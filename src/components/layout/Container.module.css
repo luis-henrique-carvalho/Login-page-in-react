@@ -1,0 +1,35 @@
+.container {
+  display: flex;
+  width: auto;
+  height: 656px;
+  align-items: center; /*centraliza horizontalmente*/
+  justify-content: center; /*cetraliza verticalmente*/
+  
+
+}
+
+.imgs {
+  position: relative;
+  padding: 50px;
+  
+  align-items: center;
+  justify-content: center;
+}
+
+.circulo {
+  display: flex;
+  width: 280px;
+  height: 280px;
+  align-items: center;
+  justify-content: center;
+}
+
+.circulo img {
+  position: absolute;
+  
+}
+
+
+
+
+
