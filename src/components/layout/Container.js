@@ -1,7 +1,7 @@
 //Imagens
 import Circle from "../../img/ArrowCircle.svg";
 import Egressos from "../../img/egressosDefault.svg";
-import Vector from "../../img/Vector.svg";
+
 
 //Styles
 import styles from "./Container.module.css";
@@ -26,9 +26,6 @@ const Container = () => {
       </div>
 
       <Login/>
-
-    
-
       
     </div>
   );
